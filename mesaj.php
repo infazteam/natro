@@ -1,6 +1,6 @@
 <?php 
 
-echo "asdasdasdas dasdkjashdjasdh jahdjasdasd asdshdbsahdasdhasd ahsd a";
+echo "deneme ";
 
 
 
